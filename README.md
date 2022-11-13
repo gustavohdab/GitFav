@@ -19,7 +19,7 @@
 
 ## 💻 Projeto
 
-GivFave busca usuários do GitHub por API e mostra no seu favoritos. Projeto desenvolvido por mim para o desafio da semana 06 do Rocketseat Explorer. Treino do conceito SPA + API, JavaScript Puro, Async, Promise, Extends etc..
+GivFav busca usuários do GitHub por API e mostra no seu favoritos. Projeto desenvolvido por mim para o desafio da semana 06 do Rocketseat Explorer. Treino do conceito SPA + API, JavaScript Puro, Async, Promise, Extends etc..
 
 ---
 
